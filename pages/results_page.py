@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 class ResultsPage:
     
 # Locators
-    RESULTS_LINKS = (By.CSS_SELECTOR,'h2>a')
+    RESULTS_LINKS = (By.CSS_SELECTOR,'h2>a>span')
     SEARCH_INPUT = (By.NAME,'q')
 
 # initializer
