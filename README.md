@@ -2,8 +2,7 @@
 
 ## selenium webdriver, python, pytest, vscode
 
-``` 
-    1. create new repository in GitHub, add new ReadMe.MD file and Commit Channges
+``` 1. create new repository in GitHub, add new ReadMe.MD file and Commit Channges
     2. open vscode and clone repository 
     3. open new terminal and makes sure python, pytest, selenium are installed. pip install pytest, pip install selenium
     4. add new tests folder to root
