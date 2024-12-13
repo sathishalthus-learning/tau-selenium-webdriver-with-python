@@ -11,7 +11,7 @@
     5. add a test file (test_*.py) and add test code
     6. run pytest from terminal and check results
     7. install xdist for parallel execution pip install pytest-xdist
-    8. add more tests 
+    8. add more tests and pytest -n 3
     9. and go on... 
     
     ```
